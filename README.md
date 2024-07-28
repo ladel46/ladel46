@@ -30,7 +30,7 @@
 
 <div align="left">
   <a href="adelhafri.com" target="_blank">
-    <img src="https://ibb.co/sWHSjyL" height="35" alt="personal logo"  />
+    <img src="https://i.ibb.co/jJRKhg7/favicon.png" height="35" alt="personal logo"  />
   </a>
   <a href="https://www.linkedin.com/in/adel-hafri/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
